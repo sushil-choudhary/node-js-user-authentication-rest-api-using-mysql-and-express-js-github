@@ -5,7 +5,7 @@ Install Node JS and MySQL Software, create a database and exeucte the SQL query.
 
 <code> CREATE DATABASE node-app
  
-CREATE TABLE users (
+CREATE TABLE Users (
   id int(11) NOT NULL AUTO_INCREMENT,
   name varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
   email varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
